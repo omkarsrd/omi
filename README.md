@@ -1,4 +1,0 @@
-omi
-===
-
-My first repository
